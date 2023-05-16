@@ -1,0 +1,9 @@
+newmtl ctk_textures/gradient-brown
+map_Kd textures\ctk_textures\gradient-brown.png
+
+newmtl ctk_textures/gradient-metal
+map_Kd textures\ctk_textures\gradient-metal.png
+
+newmtl ctk_textures/gradient-tan
+map_Kd textures\ctk_textures\gradient-tan.png
+
