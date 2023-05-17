@@ -5,7 +5,7 @@
 *.slo
 *.lo
 *.o
-*.obj
+Plugins/**/*.obj
 
 # Precompiled Headers
 *.gch
