@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
+# Rider files
+.idea/
+
 Plugins/BlockoutToolsPlugin
+
 # Compiled Object files
 *.slo
 *.lo
